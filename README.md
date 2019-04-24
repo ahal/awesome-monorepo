@@ -113,6 +113,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os)
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3)
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack)
+* [Mozilla's monorepo](https://hg.mozilla.org/mozilla-central/)
 
 ## Migration tools
 
